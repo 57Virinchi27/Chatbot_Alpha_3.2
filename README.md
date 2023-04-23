@@ -16,7 +16,7 @@ WINDOWS:
 
 5. Activate it by using 
 
-`C:\ChatbotAlpha3.2-main\venv\scripts\activate`
+`C:\Chatbot_Alpha_3.2-main\venv\scripts\activate`
 
 6. Import necessary packages
 
