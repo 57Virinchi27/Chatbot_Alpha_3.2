@@ -8,7 +8,7 @@ WINDOWS:
 
 3. Create a directory by using this command
 
-`cd C:\Chatbot_Alpha_3.2`
+`cd C:\Chatbot_Alpha_3.2-main`
 
 4. Create a virtual enviorment by using 
 
@@ -16,7 +16,7 @@ WINDOWS:
 
 5. Activate it by using 
 
-`C:\ChatbotAlpha3.2\venv\scripts\activate`
+`C:\ChatbotAlpha3.2-main\venv\scripts\activate`
 
 6. Import necessary packages
 
